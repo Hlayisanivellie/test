@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #8f2a35;
+      }
+
+      .cls-5 {
+        fill: #364582;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-1);
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-1" cx="51.26" cy="50.06" r="49.06"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="-42.18" y="-4.44" width="186.89" height="109.03"/>
+    </clipPath>
+  </defs>
+  <g class="cls-2">
+    <g id="Netherlands">
+      <g class="cls-6">
+        <rect class="cls-5" x="-42.18" y="-4.44" width="186.89" height="109.03"/>
+        <rect class="cls-3" x="-42.18" y="-4.44" width="186.89" height="72.69"/>
+        <rect class="cls-4" x="-42.18" y="-4.44" width="186.89" height="36.35"/>
+      </g>
+    </g>
+  </g>
+</svg>

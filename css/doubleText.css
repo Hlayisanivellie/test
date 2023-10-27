@@ -1,0 +1,79 @@
+
+ .double-context{ 
+ 
+  
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+} 
+
+
+  .intro101 {
+    height:700px;
+  
+  }
+  
+  .intro101 video {
+ 
+    object-fit: cover;
+  }
+  
+
+
+  .s101 .sides {
+
+    color: black;
+  }
+  
+  /* .s101  {
+    padding-top: 300px;
+    text-align: center;
+    font-size: 80px;
+  }
+   */
+
+ .s101 .vid{
+    height: 500px;
+    width: 500px;
+    
+  }
+
+.s101 h1{
+  font-size: 28px;
+  color: white;
+}
+  .s-gold{
+    color: #c8a064;
+  }
+  .pl{
+
+border: solid white 3px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+
+  }
+.bt{
+  background-color: red;
+  display: flex;
+  justify-content: left;
+ padding: auto;
+  text-align: left;
+}
+
+.tx{
+  font-size: 38px;
+}
+.con{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+     background-color: blueviolet;
+}
+
+.vg{
+  height: 500px;
+  width: 500px;
+}
